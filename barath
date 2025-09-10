@@ -1,0 +1,9 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("bharathi");
+        System.out.println("2nd bcom pa");
+            System.out.println("commerce dept");
+                System.out.println("thiruvannamalai");
+                    System.out.println("o+");
+  }
+}
