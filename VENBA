@@ -1,0 +1,11 @@
+public class Main {
+  public static void main(String[] args) {
+    int a = 45;
+    int b = 33;
+    int c = 50;
+
+    if (a > b && c > a) {
+      System.out.println("Both conditions are true");
+    }
+  }
+}
